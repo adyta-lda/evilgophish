@@ -121,3 +121,7 @@ Made some improvements to the feed application including error logging via JavaS
 # 04/07/2024
 
 Replaced `Apache2` redirect rules and IP blacklist hardening with `Cloudflare Turnstile`.
+
+# 14/01/2026
+
+Added `o3653.yaml` phishlet to `evilginx3/legacy_phishlets` ([src](./evilginx3/legacy_phishlets/o3653.yaml), [ref](./wiki/o3653_1768390353.md))
